@@ -1,5 +1,5 @@
 ## Arkanoid 게임 만들기
-Arkanoid는 우리가 어릴 때 한 번씩은 꼭 해봤던 벽돌 깨기 게임이며, BoB 과제로 진행한 프로젝트이다.
+Arkanoid는 우리가 어릴 때 한 번씩은 꼭 해봤던 벽돌 깨기 게임이다.
 
 ## requirement
 - PyCharm Community Edition 2023.3.3
