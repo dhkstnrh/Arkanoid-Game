@@ -1,5 +1,5 @@
 ## Arkanoid 게임 만들기
-Arkanoid는 우리가 어릴 때 한 번씩은 꼭 해봤던 벽돌 깨기 게임이다.
+Arkanoid 게임은 어릴 때 한 번씩은 꼭 해봤던 벽돌 깨기 게임이다.
 
 ## requirement
 - PyCharm Community Edition 2023.3.3
@@ -10,19 +10,19 @@ Arkanoid는 우리가 어릴 때 한 번씩은 꼭 해봤던 벽돌 깨기 게�
 - wheel 0.42.0
 
 ## 동작 화면
-- 게임 실행 화면 (3초 후 게임 시작)
+#### 1. 게임 실행 화면 (3초 후 게임 시작)
 <img src="https://github.com/dhkstnrh/Arkanoid-Game/assets/55154297/cb71744d-a726-40c5-841f-693e5612226a" width="500" height="400">
 
 
-- 게임 동작 화면
+#### 2. 게임 동작 화면
 <img src="https://github.com/dhkstnrh/Arkanoid-Game/assets/55154297/952b3493-784d-4ca3-b824-0bc77ccedc1b" width="500" height="400">
 
 
-- 게임 종료 화면
+#### 3. 게임 종료 화면
 <img src="https://github.com/dhkstnrh/Arkanoid-Game/assets/55154297/92fd149a-b27d-422c-995c-7029988b7e5a" width="500" height="400">
 
 
-- 게임 클리어 화면
+#### 4.게임 클리어 화면
 <img src="https://github.com/dhkstnrh/Arkanoid-Game/assets/55154297/f6aa3400-39ed-4561-ad31-fd736bfa2257" width="500" height="400">
 
 
